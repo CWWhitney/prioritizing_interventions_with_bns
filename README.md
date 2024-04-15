@@ -1,6 +1,6 @@
 # Bayesian Network Modeling for Climate Change Adaptation 
 
-Welcome to the repository for Bayesian Network (BN) modeling of [Fernandez et al. 2022](https://link.springer.com/article/10.1007/s13593-022-00809-0) farm management interventions for climate change adaptation and mitigation in banana plantations. This project aims to provide a comprehensive overview of the assumptions underlying the BN models developed for assessing the effectiveness of various interventions.
+This is a repository for Bayesian Network (BN) modeling of [Fernandez et al. 2022](https://link.springer.com/article/10.1007/s13593-022-00809-0) farm management interventions for climate change adaptation and mitigation in banana plantations. This project aims to provide a comprehensive overview of the assumptions underlying the BN models developed for assessing the effectiveness of various interventions.
 
 ## Purpose
 
