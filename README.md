@@ -21,10 +21,6 @@ The purpose of this project is follow up on the underlying assumptions and struc
 4. **Temporal Dynamics**: Temporal dynamics, such as seasonal variations in climate and farming conditions, are incorporated into the models where relevant.
 5. **Scale Considerations**: The models account for differences in scale, recognizing that the effectiveness of interventions may vary based on factors such as farm size and geographical location.
 
-## License
-
-This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). Feel free to use and modify the code and documentation for your own purposes.
-
 ## References
 
 Fernandez, E., Do, H., Luedeling, E. et al. Prioritizing farm management interventions to improve climate change adaptation and mitigation outcomes—a case study for banana plantations. Agron. Sustain. Dev. 42, 76 (2022). https://doi.org/10.1007/s13593-022-00809-0
