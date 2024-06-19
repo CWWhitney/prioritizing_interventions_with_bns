@@ -21,6 +21,18 @@ The purpose of this project is follow up on the underlying assumptions and struc
 4. **Temporal Dynamics**: Temporal dynamics, such as seasonal variations in climate and farming conditions, are incorporated into the models where relevant.
 5. **Scale Considerations**: The models account for differences in scale, recognizing that the effectiveness of interventions may vary based on factors such as farm size and geographical location.
 
+## Impact pathways
+
+These form the basis for the BNs
+
+![Screenshot 2024-06-19 at 3 47 40 PM](https://github.com/CWWhitney/prioritizing_interventions_with_bns/assets/19190662/669c1a80-35ab-430d-92da-6d27457a146d)
+
+Graphical impact pathway describing the adaptation, mitigation, and ecological effects of farm management interventions proposed by GIZ for banana production systems in Latin America to comply with international certification schemes.
+
+![Screenshot 2024-06-19 at 3 47 54 PM](https://github.com/CWWhitney/prioritizing_interventions_with_bns/assets/19190662/2f0bc079-58e1-4344-9133-2c5dd45fb5c0)
+
+Simplified illustration of the general impact pathway implemented in the mathematical model for estimating climate change mitigation and adaptation outcomes as well as risks (increase and decrease), costs, expected change in yield, and ecological impact of farm management interventions in banana plantations.
+
 ## References
 
 Fernandez, E., Do, H., Luedeling, E. et al. Prioritizing farm management interventions to improve climate change adaptation and mitigation outcomes—a case study for banana plantations. Agron. Sustain. Dev. 42, 76 (2022). https://doi.org/10.1007/s13593-022-00809-0
